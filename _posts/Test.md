@@ -1,5 +1,5 @@
 ---
-title: Test File
+title: Test
 date: 2022-05-23 12:00:00 -500
 categories: [explore, software]
 tags: [first time,testing,new,imaginative]  # TAG names should always be lowercase
